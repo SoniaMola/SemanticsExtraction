@@ -10,7 +10,7 @@ The aim of the project is to extract from Natural Language relevant semantic inf
 * SPARQLWrapper
 
 ## How to run
-It necessary to create a shortcut of this directory in your Google Drive. The Google Colaboratory notebook to run is 'SemanticsExtraction.ipynb'. It is divided in four sections that must be performed sequentially. The four steps are the following:
+It necessary to create a shortcut of this directory in your Google Drive. The Google Colaboratory notebook to run is `SemanticsExtraction.ipynb`. It is divided in four sections that must be performed sequentially. The four steps are the following:
 
 1. Mount the drive
 2. Setup and Requirements
