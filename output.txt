@@ -1,0 +1,326 @@
+Triple n°1 - {'subject': '23 July 1989', 'relation': 'child of', 'object': 'Marcia Jeannine Gresham'}
+
+Subject: 23 July 1989 - ['http://dbpedia.org/resource/Category:23', 'http://dbpedia.org/resource/July', 'http://dbpedia.org/resource/1989']
+
+Object: Marcia Jeannine Gresham - ['http://dbpedia.org/resource/Marcia', 'http://dbpedia.org/resource/Jeannine', 'http://dbpedia.org/resource/Gresham']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°2 - {'subject': 'Daniel Radcliffe', 'relation': 'was', 'object': "born at Queen Charlotte 's in Hammersmith"}
+
+Subject: Daniel Radcliffe - http://dbpedia.org/resource/Daniel_radcliffe
+
+Relation: be - have the quality of being; (copula, used with an adjective or a predicate noun)
+
+Object: born at Queen Charlotte 's in Hammersmith - ['http://dbpedia.org/resource/Born', 'http://dbpedia.org/resource/At', 'http://dbpedia.org/resource/Queen', 'http://dbpedia.org/resource/Category:Charlotte', "http://dbpedia.org/resource/'s", 'http://dbpedia.org/resource/In', 'http://dbpedia.org/resource/Hammersmith']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°3 - {'subject': 'Daniel Radcliffe', 'relation': 'was born in', 'object': 'England'}
+
+Subject: Daniel Radcliffe - http://dbpedia.org/resource/Daniel_radcliffe
+
+Relation: bear - have
+
+Object: England - http://dbpedia.org/resource/England
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°4 - {'subject': 'Daniel Radcliffe', 'relation': 'was born in', 'object': 'Hammersmith'}
+
+Subject: Daniel Radcliffe - http://dbpedia.org/resource/Daniel_radcliffe
+
+Relation: bear - have
+
+Object: Hammersmith - http://dbpedia.org/resource/Hammersmith
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°5 - {'subject': 'Hammersmith', 'relation': 'England on', 'object': '23 July 1989'}
+
+Subject: Hammersmith - http://dbpedia.org/resource/Hammersmith
+
+Object: 23 July 1989 - ['http://dbpedia.org/resource/Category:23', 'http://dbpedia.org/resource/July', 'http://dbpedia.org/resource/1989']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°6 - {'subject': 'Daniel Radcliffe', 'relation': 'was', 'object': 'born'}
+
+Subject: Daniel Radcliffe - http://dbpedia.org/resource/Daniel_radcliffe
+
+Relation: be - have the quality of being; (copula, used with an adjective or a predicate noun)
+
+Object: born - http://dbpedia.org/resource/Born
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°7 - {'subject': 'Daniel Radcliffe', 'relation': 'was born in', 'object': 'London'}
+
+Subject: Daniel Radcliffe - http://dbpedia.org/resource/Daniel_radcliffe
+
+Relation: bear - have
+
+Object: London - http://dbpedia.org/resource/London
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°8 - {'subject': 'Daniel Radcliffe', 'relation': 'was born in', 'object': 'England on 23 July 1989'}
+
+Subject: Daniel Radcliffe - http://dbpedia.org/resource/Daniel_radcliffe
+
+Relation: bear - have
+
+Object: England on 23 July 1989 - ['http://dbpedia.org/resource/England', 'http://dbpedia.org/resource/On', 'http://dbpedia.org/resource/Category:23', 'http://dbpedia.org/resource/July', 'http://dbpedia.org/resource/1989']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°9 - {'subject': 'Daniel Radcliffe', 'relation': 'was born at', 'object': 'at Queen Charlotte'}
+
+Subject: Daniel Radcliffe - http://dbpedia.org/resource/Daniel_radcliffe
+
+Relation: bear - have
+
+Object: at Queen Charlotte - ['http://dbpedia.org/resource/At', 'http://dbpedia.org/resource/Queen', 'http://dbpedia.org/resource/Category:Charlotte']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°10 - {'subject': 'His Jewish mother', 'relation': 'was', 'object': 'born'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: be - have the quality of being; (copula, used with an adjective or a predicate noun)
+
+Object: born - http://dbpedia.org/resource/Born
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°11 - {'subject': 'His mother', 'relation': 'was raised in', 'object': 'town'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: town - http://dbpedia.org/resource/Town
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°12 - {'subject': 'His mother', 'relation': 'was raised in', 'object': 'town of Westcliff'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: town of Westcliff - ['http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/Of', 'http://dbpedia.org/resource/Westcliff']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°13 - {'subject': 'His mother', 'relation': 'was raised in', 'object': 'English town of Westcliff on Sea'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: English town of Westcliff on Sea - ['http://dbpedia.org/resource/English', 'http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/Of', 'http://dbpedia.org/resource/Westcliff', 'http://dbpedia.org/resource/On', 'http://dbpedia.org/resource/Sea']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°14 - {'subject': 'His Jewish mother', 'relation': 'traced', 'object': 'her ancestry'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: trace - follow, discover, or ascertain the course of development of something
+
+Object: her ancestry - ['http://dbpedia.org/resource/Her', 'http://dbpedia.org/resource/Ancestry']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°15 - {'subject': 'His mother', 'relation': 'was born in', 'object': 'South Africa'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: bear - have
+
+Object: South Africa - http://dbpedia.org/resource/South_africa
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°16 - {'subject': 'His Jewish mother', 'relation': 'was raised in', 'object': 'town'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: town - http://dbpedia.org/resource/Town
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°17 - {'subject': 'His Jewish mother', 'relation': 'was raised in', 'object': 'English town of Westcliff on Sea'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: English town of Westcliff on Sea - ['http://dbpedia.org/resource/English', 'http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/Of', 'http://dbpedia.org/resource/Westcliff', 'http://dbpedia.org/resource/On', 'http://dbpedia.org/resource/Sea']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°18 - {'subject': 'His mother', 'relation': 'was raised in', 'object': 'town on Sea'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: town on Sea - ['http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/On', 'http://dbpedia.org/resource/Sea']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°19 - {'subject': 'His mother', 'relation': 'was raised in', 'object': 'town of Westcliff on Sea'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: town of Westcliff on Sea - ['http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/Of', 'http://dbpedia.org/resource/Westcliff', 'http://dbpedia.org/resource/On', 'http://dbpedia.org/resource/Sea']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°20 - {'subject': 'His Jewish mother', 'relation': 'was born in', 'object': 'South Africa'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: bear - have
+
+Object: South Africa - http://dbpedia.org/resource/South_africa
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°21 - {'subject': 'His Jewish mother', 'relation': 'was raised in', 'object': 'English town'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: English town - ['http://dbpedia.org/resource/English', 'http://dbpedia.org/resource/Town']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°22 - {'subject': 'His Jewish mother', 'relation': 'was raised in', 'object': 'town of Westcliff on Sea'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: town of Westcliff on Sea - ['http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/Of', 'http://dbpedia.org/resource/Westcliff', 'http://dbpedia.org/resource/On', 'http://dbpedia.org/resource/Sea']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°23 - {'subject': 'His Jewish mother', 'relation': 'was raised in', 'object': 'English town on Sea'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: English town on Sea - ['http://dbpedia.org/resource/English', 'http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/On', 'http://dbpedia.org/resource/Sea']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°24 - {'subject': 'His mother', 'relation': 'was', 'object': 'born'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: be - have the quality of being; (copula, used with an adjective or a predicate noun)
+
+Object: born - http://dbpedia.org/resource/Born
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°25 - {'subject': 'His Jewish mother', 'relation': 'was', 'object': 'raised'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: be - have the quality of being; (copula, used with an adjective or a predicate noun)
+
+Object: raised - http://dbpedia.org/resource/Raised
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°26 - {'subject': 'His Jewish mother', 'relation': 'was raised in', 'object': 'town on Sea'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: town on Sea - ['http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/On', 'http://dbpedia.org/resource/Sea']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°27 - {'subject': 'His Jewish mother', 'relation': 'was raised in', 'object': 'English town of Westcliff'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: English town of Westcliff - ['http://dbpedia.org/resource/English', 'http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/Of', 'http://dbpedia.org/resource/Westcliff']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°28 - {'subject': 'His Jewish mother', 'relation': 'was raised in', 'object': 'town of Westcliff'}
+
+Subject: His Jewish mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Jewish', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: town of Westcliff - ['http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/Of', 'http://dbpedia.org/resource/Westcliff']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°29 - {'subject': 'His mother', 'relation': 'was raised in', 'object': 'English town on Sea'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: English town on Sea - ['http://dbpedia.org/resource/English', 'http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/On', 'http://dbpedia.org/resource/Sea']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°30 - {'subject': 'His mother', 'relation': 'traced', 'object': 'her ancestry'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: trace - follow, discover, or ascertain the course of development of something
+
+Object: her ancestry - ['http://dbpedia.org/resource/Her', 'http://dbpedia.org/resource/Ancestry']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°31 - {'subject': 'His mother', 'relation': 'was raised in', 'object': 'English town'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: English town - ['http://dbpedia.org/resource/English', 'http://dbpedia.org/resource/Town']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°32 - {'subject': 'His mother', 'relation': 'was raised in', 'object': 'English town of Westcliff'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: raise - raise the level or amount of something
+
+Object: English town of Westcliff - ['http://dbpedia.org/resource/English', 'http://dbpedia.org/resource/Town', 'http://dbpedia.org/resource/Of', 'http://dbpedia.org/resource/Westcliff']
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Triple n°33 - {'subject': 'His mother', 'relation': 'was', 'object': 'raised'}
+
+Subject: His mother - ['http://dbpedia.org/resource/His', 'http://dbpedia.org/resource/Mother']
+
+Relation: be - have the quality of being; (copula, used with an adjective or a predicate noun)
+
+Object: raised - http://dbpedia.org/resource/Raised
+
+-------------------------------------------------------------------------------------------------------------------------------
+
